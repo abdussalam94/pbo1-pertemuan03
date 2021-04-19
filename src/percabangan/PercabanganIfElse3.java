@@ -1,6 +1,6 @@
-package operator;
+package percabangan;
 
-public class OperatorIfElse3 {
+public class PercabanganIfElse3 {
     public static void main(String[] args) {
         double totalBelanja = 53000;
         double uangDiDompet = 25000;
