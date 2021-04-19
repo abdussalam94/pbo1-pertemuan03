@@ -7,7 +7,7 @@ public class OperatorBinary {
     //baris 5-7 adalah comment/komentar yang tidak dijalankan oleh program
     String nama = "Abdussalam";
     int jumlahSks = 24;
-    double indeksPrestasiKomulatif = 3,18;
+    double indeksPrestasiKomulatif = 3.18;
 
 
     public static void main(String[] args) {
